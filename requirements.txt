@@ -20,7 +20,7 @@ ptyprocess==0.6.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
 pygame==1.9.6
-Pygments==2.5.2
+Pygments==2.7.4
 pyinotify==0.9.6
 PyOpenGL==3.1.5
 six==1.14.0
